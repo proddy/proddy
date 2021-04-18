@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hiya 👋
+
+- 🔭 I’m currently working on my [EMS-ESP project](https://emsesp.github.io/docs/#/) most times
+- 👯 I’m looking to collaborate on Secure HTTPS and MQTT servers for the ESP32
+
 
 <!--
 **proddy/proddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +20,5 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proddy&show_icons=true&hide_border=true" />
+  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proddy&show_icons=true&hide_border=true" />
 </p>
